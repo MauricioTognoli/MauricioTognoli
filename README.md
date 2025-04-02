@@ -10,6 +10,10 @@
 - 🎓 **Formación:** Full Stack Web Developer - Henry Bootcamp (2024)  
 - 🌱 **Aprendiendo:** TypeScript, Jest, GraphQL  
 - 📫 **Contacto:** [Tognolimauricio@gmail.com](mailto:Tognolimauricio@gmail.com)
+- 🌐 **Portafolio:** [portfolio-mauriciotognoli.vercel.app](https://portfolio-mauriciotognoli.vercel.app)
+- 🔗 **LinkedIn:** [linkedin.com/in/mauricio-tognoli](https://www.linkedin.com/in/mauricio-tognoli)
+
+
 
 ---
 
@@ -38,8 +42,6 @@ Plataforma de streaming con búsqueda avanzada y filtrado.
 E-commerce de productos Apple con carrito y pagos.  
 - Desarrollado con React y Redux.  
 - Diseño responsivo para móviles.  
-
-*(Ajusta los enlaces a tus repositorios reales.)*
 
 ---
 
