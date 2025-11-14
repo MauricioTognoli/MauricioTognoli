@@ -31,20 +31,6 @@ Busco oportunidades para aplicar mis habilidades en proyectos innovadores.
 </div>
 
 ---
-
-### 🚀 Proyectos destacados
-#### [NexoTV](https://github.com/MauricioTognoli/nexotv)  
-Plataforma de streaming con búsqueda avanzada y filtrado.  
-- Frontend con Next.js y Tailwind CSS.  
-- Optimizado con Apollo Client y GraphQL.  
-
-#### [iStore](https://github.com/MauricioTognoli/istore)  
-E-commerce de productos Apple con carrito y pagos.  
-- Desarrollado con React y Redux.  
-- Diseño responsivo para móviles.  
-
----
-
 ### 📊 Estadísticas de GitHub
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MauricioTognoli&show_icons=true&theme=dracula" alt="GitHub Stats" />
@@ -55,12 +41,10 @@ E-commerce de productos Apple con carrito y pagos.
 
 ### 📬 Conectemos
 <div align="center">  
-<a href="https://github.com/MauricioTognoli" target="_blank"><img src="https://img.shields.io/badge/GitHub-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>  
 <a href="https://linkedin.com/in/mauricio-tognoli-626257323" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>  
-<a href="https://x.com/Mau_Tognoli" target="_blank"><img src="https://img.shields.io/badge/Twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>  
-<a href="https://www.instagram.com/mau.tognoli" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>  
+<a href="https://x.com/MauricioTognoli" target="_blank"><img src="https://img.shields.io/badge/Twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>  
 </div>
 
 ---
 
-<p align="center">“Construyendo experiencias web, un píxel a la vez.”</p>
+<p align="center">“Construyendo experiencias web destacadas.”</p>
