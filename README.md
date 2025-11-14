@@ -8,7 +8,6 @@
 - 📍 **Ubicación:** Buenos Aires, Argentina  
 - 💻 **Especialidad:** Desarrollo Frontend | UI/UX | Optimización  
 - 🎓 **Formación:** Full Stack Web Developer - Henry Bootcamp (2024)  
-- 🌱 **Aprendiendo:** TypeScript, Jest, GraphQL  
 - 📫 **Contacto:** [Tognolimauricio@gmail.com](mailto:Tognolimauricio@gmail.com)
 - 🌐 **Portafolio:** [portfolio-mauriciotognoli.vercel.app](https://portfolio-mauriciotognoli.vercel.app)
 - 🔗 **LinkedIn:** [linkedin.com/in/mauricio-tognoli](https://www.linkedin.com/in/mauricio-tognoli)
